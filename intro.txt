@@ -1,1 +1,2 @@
-Hello, world! Mu name is Umesh and I am an IT major
+Hello, world! Mu name is Umesh and I am an IT major.
+My name is Chirag and I am an IT major.
